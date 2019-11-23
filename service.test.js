@@ -13,5 +13,5 @@ test("test fact(2)", () => {
 });
 
 test("test fact(5)", () => {
-  expect(fact(5)).toBe(120);
+  expect(fact(5)).toBe(121);
 });
